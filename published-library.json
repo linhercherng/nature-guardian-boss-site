@@ -1,1 +1,2926 @@
-{"schemaVersion":1,"revision":0,"releaseId":"initial","publishedAt":"2026-10-18T00:00:00.000Z","packs":[]}
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "releaseId": "febcd1e8-efef-4a1f-a00c-d0120d1a040e",
+  "publishedAt": "2026-10-18T10:49:53.727Z",
+  "packs": [
+    {
+      "schemaVersion": "1.0",
+      "packId": "kangxuan-grade4-earth",
+      "version": "published-90ce1f20-533a-43a1-b104-541cd881369d",
+      "title": "地表的靜與動",
+      "language": "zh-Hant",
+      "grade": 4,
+      "semester": "上",
+      "releaseStatus": "trial",
+      "rightsStatus": "publish_allowed",
+      "createdAt": "2026-10-17T05:51:01Z",
+      "unitIds": [
+        "earth"
+      ],
+      "sources": [
+        {
+          "sourceId": "img-8198",
+          "title": "康軒四上自然：地表的靜與動",
+          "filename": "IMG_8198.HEIC",
+          "locator": "課本第12–13頁",
+          "sha256": "64b7f84e8c278478be19dfc1cb582ff52c1d6b5f142f5432e944be74a0699f22"
+        },
+        {
+          "sourceId": "img-8199",
+          "title": "康軒四上自然：地表的靜與動",
+          "filename": "IMG_8199.HEIC",
+          "locator": "課本第14–15頁",
+          "sha256": "a1eb33d34201ed735b205b562ab957c03ca88f3d798c8f6c44ac81aa2bba69df"
+        },
+        {
+          "sourceId": "img-8200",
+          "title": "康軒四上自然：地表的靜與動",
+          "filename": "IMG_8200.HEIC",
+          "locator": "課本第16–17頁",
+          "sha256": "413ccf6c161230e0d12d4f6844dfa6b8d3830ffe8b7bddcb90b951747bd450c5"
+        },
+        {
+          "sourceId": "img-8201",
+          "title": "康軒四上自然：地表的靜與動",
+          "filename": "IMG_8201.HEIC",
+          "locator": "課本第18–19頁",
+          "sha256": "38c3224b0a55c8fecbf492603818f88a2f93d6fee1ac74e3a70d0a76d38360be"
+        },
+        {
+          "sourceId": "img-8202",
+          "title": "康軒四上自然：地表的靜與動",
+          "filename": "IMG_8202.HEIC",
+          "locator": "課本第20–21頁",
+          "sha256": "c3e6111c2e2d2ca26c606cdbbb091bb3bd0374b4842d3cb3e9d40ed21f84dfe5"
+        },
+        {
+          "sourceId": "img-8203",
+          "title": "康軒四上自然：地表的靜與動",
+          "filename": "IMG_8203.HEIC",
+          "locator": "課本第22–23頁",
+          "sha256": "bb3f29c4ee19411a1ffd5f539d72cb6978988b66480e096423c60ec1ddb2f4ba"
+        },
+        {
+          "sourceId": "img-8204",
+          "title": "康軒四上自然：地表的靜與動",
+          "filename": "IMG_8204.HEIC",
+          "locator": "課本第24–25頁",
+          "sha256": "38c38518bdc086762ce666f80b473c63dbe4e1ac96a9af049bfb420cc286929c"
+        },
+        {
+          "sourceId": "img-8205",
+          "title": "康軒四上自然：地表的靜與動",
+          "filename": "IMG_8205.HEIC",
+          "locator": "課本第26–27頁",
+          "sha256": "5923591f882a80c7c30b6832ff296725cf3d80c04ac536f6426dee707e270d8c"
+        },
+        {
+          "sourceId": "img-8206",
+          "title": "康軒四上自然：地表的靜與動",
+          "filename": "IMG_8206.HEIC",
+          "locator": "課本第28–29頁",
+          "sha256": "fce0355c2bf504cfd3fbec0d46c6e10cf30acb5ad517c51af7d46a9f31fc03d5"
+        },
+        {
+          "sourceId": "mindmap",
+          "title": "使用者提供：地表的靜與動筆記",
+          "filename": "f9528b6f-4d03-40ef-801c-b437bed42e0e.jpg",
+          "locator": "地表物質、變動的大地分支",
+          "sha256": "47244217d33b9af33a79d53ede4822ead64fb080d83999756740fc08bae9c856"
+        },
+        {
+          "sourceId": "nfa-response",
+          "title": "內政部消防署：全民地震應變呼籲",
+          "filename": "",
+          "locator": "抗震保命三步驟，2026-10-17查核",
+          "sha256": "",
+          "url": "https://www.nfa.gov.tw/cht/index.php?article_id=16075&code=list&flag=detail&ids=21"
+        },
+        {
+          "sourceId": "exam-0",
+          "title": "文心國小111學年度四年級自然第一次評量",
+          "filename": "exam (1).pdf",
+          "locator": "第1–2頁；詳見題目來源題號",
+          "sha256": "ec413a8bb2a43ad4834639d0891d3299f56739bc18b1ba1a39352fecfe218738"
+        },
+        {
+          "sourceId": "exam-2",
+          "title": "大里國小111學年度四年級自然第一次評量",
+          "filename": "exam (3).pdf",
+          "locator": "第1–2頁；詳見題目來源題號",
+          "sha256": "b9fc60d94e5af3b041ddc620013c423f4b7c162a5bb06f0ceb6b15aa9c994be5"
+        },
+        {
+          "sourceId": "exam-5",
+          "title": "文心國小112學年度四年級自然第一次評量",
+          "filename": "exam.pdf",
+          "locator": "第1–2頁；詳見題目來源題號",
+          "sha256": "9c02f67c48e7ff0933fa8412b24487a75a4420cd0bfeb8c7df89b5b4ee6ac196"
+        }
+      ],
+      "questions": [
+        {
+          "questionId": "earth-001",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-環境與生物",
+          "conceptIds": [
+            "環境與生物"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "森林裡的哪一項屬於非生物？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "空氣"
+            },
+            {
+              "optionId": "option-1",
+              "text": "松鼠"
+            },
+            {
+              "optionId": "option-2",
+              "text": "蕨類"
+            },
+            {
+              "optionId": "option-3",
+              "text": "螞蟻"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "空氣、水與岩石屬於非生物；松鼠、蕨類及螞蟻是生物。",
+          "distractorReasons": {
+            "option-1": "空氣、水與岩石屬於非生物；松鼠、蕨類及螞蟻是生物。",
+            "option-2": "空氣、水與岩石屬於非生物；松鼠、蕨類及螞蟻是生物。",
+            "option-3": "空氣、水與岩石屬於非生物；松鼠、蕨類及螞蟻是生物。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8198",
+              "locator": "課本第12–13頁",
+              "supportSummary": "空氣、水與岩石屬於非生物；松鼠、蕨類及螞蟻是生物。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-002",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-環境與生物",
+          "conceptIds": [
+            "環境與生物"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "小隊沿著海岸走進高山，最合理的觀察是什麼？",
+          "options": [
+            {
+              "optionId": "option-1",
+              "text": "所有地表環境都完全相同"
+            },
+            {
+              "optionId": "option-2",
+              "text": "只有海邊才有空氣"
+            },
+            {
+              "optionId": "option-3",
+              "text": "高山上一定沒有生物"
+            },
+            {
+              "optionId": "option-0",
+              "text": "不同地表環境有不同特色"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "高山、平原、河流與海岸的環境各有特色，生物也可能不同。",
+          "distractorReasons": {
+            "option-1": "高山、平原、河流與海岸的環境各有特色，生物也可能不同。",
+            "option-2": "高山、平原、河流與海岸的環境各有特色，生物也可能不同。",
+            "option-3": "高山、平原、河流與海岸的環境各有特色，生物也可能不同。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8198",
+              "locator": "課本第12–13頁",
+              "supportSummary": "高山、平原、河流與海岸的環境各有特色，生物也可能不同。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-003",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-環境與生物",
+          "conceptIds": [
+            "環境與生物"
+          ],
+          "grade": 4,
+          "difficulty": "medium",
+          "type": "single_choice",
+          "stem": "調查地表生物時，為什麼也要記錄水和空氣？",
+          "options": [
+            {
+              "optionId": "option-2",
+              "text": "非生物都能自行繁殖"
+            },
+            {
+              "optionId": "option-3",
+              "text": "找到生物就不必觀察其他環境條件"
+            },
+            {
+              "optionId": "option-0",
+              "text": "生物生存需要環境中的非生物資源"
+            },
+            {
+              "optionId": "option-1",
+              "text": "非生物只影響岩石，不影響生物"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "生物須依靠水、空氣等資源生存，所以調查時要同時觀察生物與非生物。",
+          "distractorReasons": {
+            "option-1": "生物須依靠水、空氣等資源生存，所以調查時要同時觀察生物與非生物。",
+            "option-2": "生物須依靠水、空氣等資源生存，所以調查時要同時觀察生物與非生物。",
+            "option-3": "生物須依靠水、空氣等資源生存，所以調查時要同時觀察生物與非生物。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8199",
+              "locator": "課本第14–15頁",
+              "supportSummary": "生物須依靠水、空氣等資源生存，所以調查時要同時觀察生物與非生物。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-004",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-植物與土壤",
+          "conceptIds": [
+            "植物與土壤"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "要幫西瓜選一塊土地，哪種條件較適合？",
+          "options": [
+            {
+              "optionId": "option-3",
+              "text": "只鋪石板而不保留土壤"
+            },
+            {
+              "optionId": "option-0",
+              "text": "土質鬆散、排水良好"
+            },
+            {
+              "optionId": "option-1",
+              "text": "土質緊密、長期積水"
+            },
+            {
+              "optionId": "option-2",
+              "text": "長期被海水浸泡的泥灘"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "教材以西瓜說明植物各有適合的生長條件；西瓜適合鬆散、排水良好的土壤。",
+          "distractorReasons": {
+            "option-1": "教材以西瓜說明植物各有適合的生長條件；西瓜適合鬆散、排水良好的土壤。",
+            "option-2": "教材以西瓜說明植物各有適合的生長條件；西瓜適合鬆散、排水良好的土壤。",
+            "option-3": "教材以西瓜說明植物各有適合的生長條件；西瓜適合鬆散、排水良好的土壤。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8199",
+              "locator": "課本第14–15頁",
+              "supportSummary": "教材以西瓜說明植物各有適合的生長條件；西瓜適合鬆散、排水良好的土壤。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-005",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-植物與土壤",
+          "conceptIds": [
+            "植物與土壤"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "水稻與西瓜適合的土壤條件不完全一樣，說明什麼？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "不同植物適合的環境可能不同"
+            },
+            {
+              "optionId": "option-1",
+              "text": "每種植物都只能種在沙灘"
+            },
+            {
+              "optionId": "option-2",
+              "text": "植物完全不需要水"
+            },
+            {
+              "optionId": "option-3",
+              "text": "植物只能在同一種地方生長"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "水稻適合較黏、溼潤的土壤，西瓜適合排水良好的鬆散土壤，不能把所有植物的需求視為相同。",
+          "distractorReasons": {
+            "option-1": "水稻適合較黏、溼潤的土壤，西瓜適合排水良好的鬆散土壤，不能把所有植物的需求視為相同。",
+            "option-2": "水稻適合較黏、溼潤的土壤，西瓜適合排水良好的鬆散土壤，不能把所有植物的需求視為相同。",
+            "option-3": "水稻適合較黏、溼潤的土壤，西瓜適合排水良好的鬆散土壤，不能把所有植物的需求視為相同。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8199",
+              "locator": "課本第14–15頁",
+              "supportSummary": "水稻適合較黏、溼潤的土壤，西瓜適合排水良好的鬆散土壤，不能把所有植物的需求視為相同。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-006",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-動物與環境",
+          "conceptIds": [
+            "動物與環境"
+          ],
+          "grade": 4,
+          "difficulty": "medium",
+          "type": "single_choice",
+          "stem": "看到招潮蟹在海邊泥灘活動，應如何理解？",
+          "options": [
+            {
+              "optionId": "option-1",
+              "text": "牠一定最適合乾燥沙漠"
+            },
+            {
+              "optionId": "option-2",
+              "text": "所有動物都必須住泥灘"
+            },
+            {
+              "optionId": "option-3",
+              "text": "泥灘沒有任何生物"
+            },
+            {
+              "optionId": "option-0",
+              "text": "泥灘是適合牠棲息的環境之一"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "教材以招潮蟹與蜂虎說明動物會在適合的環境中棲息，不代表所有動物需求相同。",
+          "distractorReasons": {
+            "option-1": "教材以招潮蟹與蜂虎說明動物會在適合的環境中棲息，不代表所有動物需求相同。",
+            "option-2": "教材以招潮蟹與蜂虎說明動物會在適合的環境中棲息，不代表所有動物需求相同。",
+            "option-3": "教材以招潮蟹與蜂虎說明動物會在適合的環境中棲息，不代表所有動物需求相同。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8199",
+              "locator": "課本第14–15頁",
+              "supportSummary": "教材以招潮蟹與蜂虎說明動物會在適合的環境中棲息，不代表所有動物需求相同。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-007",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-動物與環境",
+          "conceptIds": [
+            "動物與環境"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "栗喉蜂虎在陡峭土丘鑽洞棲息，主要顯示什麼？",
+          "options": [
+            {
+              "optionId": "option-2",
+              "text": "有土丘就不必考慮其他生存條件"
+            },
+            {
+              "optionId": "option-3",
+              "text": "不同環境都同樣適合所有鳥類"
+            },
+            {
+              "optionId": "option-0",
+              "text": "動物會利用合適的地表環境"
+            },
+            {
+              "optionId": "option-1",
+              "text": "所有鳥類都只在土丘築巢"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "栗喉蜂虎利用土丘鑽洞，顯示地表環境與動物棲息有關，但不能把一種鳥的需求套用到所有鳥類。",
+          "distractorReasons": {
+            "option-1": "栗喉蜂虎利用土丘鑽洞，顯示地表環境與動物棲息有關，但不能把一種鳥的需求套用到所有鳥類。",
+            "option-2": "栗喉蜂虎利用土丘鑽洞，顯示地表環境與動物棲息有關，但不能把一種鳥的需求套用到所有鳥類。",
+            "option-3": "栗喉蜂虎利用土丘鑽洞，顯示地表環境與動物棲息有關，但不能把一種鳥的需求套用到所有鳥類。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8199",
+              "locator": "課本第14–15頁",
+              "supportSummary": "栗喉蜂虎利用土丘鑽洞，顯示地表環境與動物棲息有關，但不能把一種鳥的需求套用到所有鳥類。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-008",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-環境與生物",
+          "conceptIds": [
+            "環境與生物"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "把生物任意搬到與原本完全不同的環境，應有哪種想法？",
+          "options": [
+            {
+              "optionId": "option-3",
+              "text": "只要地方漂亮就不需調查"
+            },
+            {
+              "optionId": "option-0",
+              "text": "先了解是否有適合牠的生存條件"
+            },
+            {
+              "optionId": "option-1",
+              "text": "牠一定能立刻適應任何地方"
+            },
+            {
+              "optionId": "option-2",
+              "text": "有岩石就一定適合所有生物"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "不同生物有不同環境需求，不能假定搬到任何地方都能良好生存。",
+          "distractorReasons": {
+            "option-1": "不同生物有不同環境需求，不能假定搬到任何地方都能良好生存。",
+            "option-2": "不同生物有不同環境需求，不能假定搬到任何地方都能良好生存。",
+            "option-3": "不同生物有不同環境需求，不能假定搬到任何地方都能良好生存。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8199",
+              "locator": "課本第14–15頁",
+              "supportSummary": "不同生物有不同環境需求，不能假定搬到任何地方都能良好生存。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-009",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地表物質",
+          "conceptIds": [
+            "地表物質"
+          ],
+          "grade": 4,
+          "difficulty": "medium",
+          "type": "single_choice",
+          "stem": "本單元比較的礫石與沙，通常哪一種顆粒較大？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "礫石"
+            },
+            {
+              "optionId": "option-1",
+              "text": "沙"
+            },
+            {
+              "optionId": "option-2",
+              "text": "兩者一定一樣大"
+            },
+            {
+              "optionId": "option-3",
+              "text": "完全不能用眼睛觀察"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "教材觀察中，礫石顆粒比沙大，岩石也可能碎裂成較小顆粒。",
+          "distractorReasons": {
+            "option-1": "教材觀察中，礫石顆粒比沙大，岩石也可能碎裂成較小顆粒。",
+            "option-2": "教材觀察中，礫石顆粒比沙大，岩石也可能碎裂成較小顆粒。",
+            "option-3": "教材觀察中，礫石顆粒比沙大，岩石也可能碎裂成較小顆粒。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8200",
+              "locator": "課本第16–17頁",
+              "supportSummary": "教材觀察中，礫石顆粒比沙大，岩石也可能碎裂成較小顆粒。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-010",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-物質觀察",
+          "conceptIds": [
+            "物質觀察"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "比較礫石、沙與細土時，哪個方法較合適？",
+          "options": [
+            {
+              "optionId": "option-1",
+              "text": "只看顏色就代表所有特性"
+            },
+            {
+              "optionId": "option-2",
+              "text": "只記材料總重量而不看顆粒"
+            },
+            {
+              "optionId": "option-3",
+              "text": "先磨成相同細粉再比較原本大小"
+            },
+            {
+              "optionId": "option-0",
+              "text": "觀察顆粒，再記錄觸摸感受"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "觀察及觸摸可比較原有顆粒大小與粗細；只看單一無關條件或改變原樣，不能完整比較原本特性。",
+          "distractorReasons": {
+            "option-1": "觀察及觸摸可比較原有顆粒大小與粗細；只看單一無關條件或改變原樣，不能完整比較原本特性。",
+            "option-2": "觀察及觸摸可比較原有顆粒大小與粗細；只看單一無關條件或改變原樣，不能完整比較原本特性。",
+            "option-3": "觀察及觸摸可比較原有顆粒大小與粗細；只看單一無關條件或改變原樣，不能完整比較原本特性。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8200",
+              "locator": "課本第16–17頁",
+              "supportSummary": "觀察及觸摸可比較原有顆粒大小與粗細；只看單一無關條件或改變原樣，不能完整比較原本特性。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-011",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-物質觀察",
+          "conceptIds": [
+            "物質觀察"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "小安說礫石摸起來較粗，這是哪一類紀錄？",
+          "options": [
+            {
+              "optionId": "option-2",
+              "text": "材料的價格"
+            },
+            {
+              "optionId": "option-3",
+              "text": "不用碰材料就能確定的結論"
+            },
+            {
+              "optionId": "option-0",
+              "text": "接觸材料後的觀察結果"
+            },
+            {
+              "optionId": "option-1",
+              "text": "材料一定會發光的證明"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "顆粒粗細與觸感是可觀察的特性，不能從觸感推論出無關的性質。",
+          "distractorReasons": {
+            "option-1": "顆粒粗細與觸感是可觀察的特性，不能從觸感推論出無關的性質。",
+            "option-2": "顆粒粗細與觸感是可觀察的特性，不能從觸感推論出無關的性質。",
+            "option-3": "顆粒粗細與觸感是可觀察的特性，不能從觸感推論出無關的性質。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8200",
+              "locator": "課本第16–17頁",
+              "supportSummary": "顆粒粗細與觸感是可觀察的特性，不能從觸感推論出無關的性質。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-012",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地表物質",
+          "conceptIds": [
+            "地表物質"
+          ],
+          "grade": 4,
+          "difficulty": "medium",
+          "type": "single_choice",
+          "stem": "修築步道時利用堅硬石塊，主要是利用哪種特性？",
+          "options": [
+            {
+              "optionId": "option-3",
+              "text": "能迅速分解成養分的特性"
+            },
+            {
+              "optionId": "option-0",
+              "text": "岩石的堅硬性"
+            },
+            {
+              "optionId": "option-1",
+              "text": "顆粒一定最細的特性"
+            },
+            {
+              "optionId": "option-2",
+              "text": "一定吸收最多水的特性"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "堅硬岩石可鋪設步道，選用材料要考慮與用途有關的特性；不能把其他材料的性質直接套用。",
+          "distractorReasons": {
+            "option-1": "堅硬岩石可鋪設步道，選用材料要考慮與用途有關的特性；不能把其他材料的性質直接套用。",
+            "option-2": "堅硬岩石可鋪設步道，選用材料要考慮與用途有關的特性；不能把其他材料的性質直接套用。",
+            "option-3": "堅硬岩石可鋪設步道，選用材料要考慮與用途有關的特性；不能把其他材料的性質直接套用。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8200",
+              "locator": "課本第16–17頁",
+              "supportSummary": "堅硬岩石可鋪設步道，選用材料要考慮與用途有關的特性；不能把其他材料的性質直接套用。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-013",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地表物質",
+          "conceptIds": [
+            "地表物質"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "種植蔬菜時選擇肥沃土壤，最直接的目的為何？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "讓植物有較適合生長的環境"
+            },
+            {
+              "optionId": "option-1",
+              "text": "讓土壤變成空氣"
+            },
+            {
+              "optionId": "option-2",
+              "text": "保證完全不用澆水"
+            },
+            {
+              "optionId": "option-3",
+              "text": "使所有蔬菜立刻成熟"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "教材說明肥沃土壤有助農作物生長，但不表示不需水或能立即成熟。",
+          "distractorReasons": {
+            "option-1": "教材說明肥沃土壤有助農作物生長，但不表示不需水或能立即成熟。",
+            "option-2": "教材說明肥沃土壤有助農作物生長，但不表示不需水或能立即成熟。",
+            "option-3": "教材說明肥沃土壤有助農作物生長，但不表示不需水或能立即成熟。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8200",
+              "locator": "課本第16–17頁",
+              "supportSummary": "教材說明肥沃土壤有助農作物生長，但不表示不需水或能立即成熟。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-014",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-土壤組成",
+          "conceptIds": [
+            "土壤組成"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "哪一組都是土壤中可能找到的成分？",
+          "options": [
+            {
+              "optionId": "option-1",
+              "text": "只有礦物質而沒有其他成分"
+            },
+            {
+              "optionId": "option-2",
+              "text": "只有活的生物而沒有非生物"
+            },
+            {
+              "optionId": "option-3",
+              "text": "只有水而沒有固體顆粒"
+            },
+            {
+              "optionId": "option-0",
+              "text": "枯葉碎片、礦物質與水分"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "提供的筆記指出土壤可含枯枝落葉、動物遺骸等有機質，以及水分與礦物質，不是單一材料。",
+          "distractorReasons": {
+            "option-1": "提供的筆記指出土壤可含枯枝落葉、動物遺骸等有機質，以及水分與礦物質，不是單一材料。",
+            "option-2": "提供的筆記指出土壤可含枯枝落葉、動物遺骸等有機質，以及水分與礦物質，不是單一材料。",
+            "option-3": "提供的筆記指出土壤可含枯枝落葉、動物遺骸等有機質，以及水分與礦物質，不是單一材料。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "mindmap",
+              "locator": "地表物質、變動的大地分支",
+              "supportSummary": "提供的筆記指出土壤可含枯枝落葉、動物遺骸等有機質，以及水分與礦物質，不是單一材料。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-015",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-物質觀察",
+          "conceptIds": [
+            "物質觀察"
+          ],
+          "grade": 4,
+          "difficulty": "medium",
+          "type": "single_choice",
+          "stem": "如果想確認兩袋沙是否顆粒相近，應該怎麼做？",
+          "options": [
+            {
+              "optionId": "option-2",
+              "text": "只問哪袋比較重就結束"
+            },
+            {
+              "optionId": "option-3",
+              "text": "把兩袋標成相同便算證明"
+            },
+            {
+              "optionId": "option-0",
+              "text": "取樣觀察並比較顆粒"
+            },
+            {
+              "optionId": "option-1",
+              "text": "只比較袋子的大小"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "材料的顆粒須直接觀察比較；包裝或標籤不能代替證據。",
+          "distractorReasons": {
+            "option-1": "材料的顆粒須直接觀察比較；包裝或標籤不能代替證據。",
+            "option-2": "材料的顆粒須直接觀察比較；包裝或標籤不能代替證據。",
+            "option-3": "材料的顆粒須直接觀察比較；包裝或標籤不能代替證據。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8200",
+              "locator": "課本第16–17頁",
+              "supportSummary": "材料的顆粒須直接觀察比較；包裝或標籤不能代替證據。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-016",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地表物質",
+          "conceptIds": [
+            "地表物質"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "「岩石能切割做建材」最適合用來說明哪件事？",
+          "options": [
+            {
+              "optionId": "option-3",
+              "text": "建築物不需要任何材料"
+            },
+            {
+              "optionId": "option-0",
+              "text": "材料特性可以運用在生活中"
+            },
+            {
+              "optionId": "option-1",
+              "text": "所有物質用途都一樣"
+            },
+            {
+              "optionId": "option-2",
+              "text": "岩石只能留在山上"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "岩石可作建材，土壤可支持植物生長，顯示不同物質有不同生活用途。",
+          "distractorReasons": {
+            "option-1": "岩石可作建材，土壤可支持植物生長，顯示不同物質有不同生活用途。",
+            "option-2": "岩石可作建材，土壤可支持植物生長，顯示不同物質有不同生活用途。",
+            "option-3": "岩石可作建材，土壤可支持植物生長，顯示不同物質有不同生活用途。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8200",
+              "locator": "課本第16–17頁",
+              "supportSummary": "岩石可作建材，土壤可支持植物生長，顯示不同物質有不同生活用途。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-017",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地表變動",
+          "conceptIds": [
+            "地表變動"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "同一座沙丘隔幾個月形狀不同，最合理的結論是？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "地表環境會隨時間改變"
+            },
+            {
+              "optionId": "option-1",
+              "text": "同一地點的地表永遠固定"
+            },
+            {
+              "optionId": "option-2",
+              "text": "只要沒有地震就不會變動"
+            },
+            {
+              "optionId": "option-3",
+              "text": "所有地表都只受人類影響"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "沙丘與山坡可能受風、流水等影響產生變化，不能假定地表永不改變。",
+          "distractorReasons": {
+            "option-1": "沙丘與山坡可能受風、流水等影響產生變化，不能假定地表永不改變。",
+            "option-2": "沙丘與山坡可能受風、流水等影響產生變化，不能假定地表永不改變。",
+            "option-3": "沙丘與山坡可能受風、流水等影響產生變化，不能假定地表永不改變。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8201",
+              "locator": "課本第18–19頁",
+              "supportSummary": "沙丘與山坡可能受風、流水等影響產生變化，不能假定地表永不改變。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-018",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-實驗觀察",
+          "conceptIds": [
+            "實驗觀察"
+          ],
+          "grade": 4,
+          "difficulty": "medium",
+          "type": "single_choice",
+          "stem": "觀察澆水前後土堆的變化，最主要是在研究什麼？",
+          "options": [
+            {
+              "optionId": "option-1",
+              "text": "光線對材料顏色的影響"
+            },
+            {
+              "optionId": "option-2",
+              "text": "植物吸收水分的速度"
+            },
+            {
+              "optionId": "option-3",
+              "text": "氣溫對土壤成分的影響"
+            },
+            {
+              "optionId": "option-0",
+              "text": "流水對地表物質的影響"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "實驗改變的是澆水條件，觀察的是土堆，可模擬流水搬移地表物質的情形，不能直接用來回答其他實驗問題。",
+          "distractorReasons": {
+            "option-1": "實驗改變的是澆水條件，觀察的是土堆，可模擬流水搬移地表物質的情形，不能直接用來回答其他實驗問題。",
+            "option-2": "實驗改變的是澆水條件，觀察的是土堆，可模擬流水搬移地表物質的情形，不能直接用來回答其他實驗問題。",
+            "option-3": "實驗改變的是澆水條件，觀察的是土堆，可模擬流水搬移地表物質的情形，不能直接用來回答其他實驗問題。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8201",
+              "locator": "課本第18–19頁",
+              "supportSummary": "實驗改變的是澆水條件，觀察的是土堆，可模擬流水搬移地表物質的情形，不能直接用來回答其他實驗問題。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-019",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-流水作用",
+          "conceptIds": [
+            "流水作用"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "流水沖過混合材料後，一些細小顆粒出現在較遠處，較合理的原因是？",
+          "options": [
+            {
+              "optionId": "option-2",
+              "text": "顆粒原來的位置不會受水影響"
+            },
+            {
+              "optionId": "option-3",
+              "text": "流水只能移動水，不能移動固體"
+            },
+            {
+              "optionId": "option-0",
+              "text": "流水把顆粒搬移到其他地方"
+            },
+            {
+              "optionId": "option-1",
+              "text": "流水只會把所有材料完全溶解"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "流水能搬移並堆積地表物質；看到顆粒移到別處，不應解釋成全部溶解或不能搬動固體。",
+          "distractorReasons": {
+            "option-1": "流水能搬移並堆積地表物質；看到顆粒移到別處，不應解釋成全部溶解或不能搬動固體。",
+            "option-2": "流水能搬移並堆積地表物質；看到顆粒移到別處，不應解釋成全部溶解或不能搬動固體。",
+            "option-3": "流水能搬移並堆積地表物質；看到顆粒移到別處，不應解釋成全部溶解或不能搬動固體。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8202",
+              "locator": "課本第20–21頁",
+              "supportSummary": "流水能搬移並堆積地表物質；看到顆粒移到別處，不應解釋成全部溶解或不能搬動固體。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-020",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-流水作用",
+          "conceptIds": [
+            "流水作用"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "在本單元流水實驗的比較中，哪種顆粒較容易被搬到遠處？",
+          "options": [
+            {
+              "optionId": "option-3",
+              "text": "只有完全不碰到水的顆粒"
+            },
+            {
+              "optionId": "option-0",
+              "text": "較細小的顆粒"
+            },
+            {
+              "optionId": "option-1",
+              "text": "所有最大石塊"
+            },
+            {
+              "optionId": "option-2",
+              "text": "每種顆粒都保證停在同一處"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "在教材的相同條件比較下，較小顆粒通常較容易被搬運得更遠。",
+          "distractorReasons": {
+            "option-1": "在教材的相同條件比較下，較小顆粒通常較容易被搬運得更遠。",
+            "option-2": "在教材的相同條件比較下，較小顆粒通常較容易被搬運得更遠。",
+            "option-3": "在教材的相同條件比較下，較小顆粒通常較容易被搬運得更遠。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8202",
+              "locator": "課本第20–21頁",
+              "supportSummary": "在教材的相同條件比較下，較小顆粒通常較容易被搬運得更遠。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-021",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-流水作用",
+          "conceptIds": [
+            "流水作用"
+          ],
+          "grade": 4,
+          "difficulty": "medium",
+          "type": "single_choice",
+          "stem": "其他條件相同，流水作用變強時，材料搬運可能有什麼變化？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "能被搬運到較遠的地方"
+            },
+            {
+              "optionId": "option-1",
+              "text": "一定完全停止搬運"
+            },
+            {
+              "optionId": "option-2",
+              "text": "一定全部變成生物"
+            },
+            {
+              "optionId": "option-3",
+              "text": "地表不可能有任何改變"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "教材指出流水作用越強，地表物質可被搬得越遠。比較時需注意其他條件相同。",
+          "distractorReasons": {
+            "option-1": "教材指出流水作用越強，地表物質可被搬得越遠。比較時需注意其他條件相同。",
+            "option-2": "教材指出流水作用越強，地表物質可被搬得越遠。比較時需注意其他條件相同。",
+            "option-3": "教材指出流水作用越強，地表物質可被搬得越遠。比較時需注意其他條件相同。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8202",
+              "locator": "課本第20–21頁",
+              "supportSummary": "教材指出流水作用越強，地表物質可被搬得越遠。比較時需注意其他條件相同。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-022",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-實驗設計",
+          "conceptIds": [
+            "實驗設計"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "要比較不同水量的影響，哪種做法較能公平比較？",
+          "options": [
+            {
+              "optionId": "option-1",
+              "text": "每次連容器與材料都改變"
+            },
+            {
+              "optionId": "option-2",
+              "text": "一次用石塊、一次用葉子且不記錄"
+            },
+            {
+              "optionId": "option-3",
+              "text": "只做完一組就聲稱比較成功"
+            },
+            {
+              "optionId": "option-0",
+              "text": "保持土堆材料與形狀相近，只改水量"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "每次只改變要研究的條件，較能判斷差異是否與水量有關。",
+          "distractorReasons": {
+            "option-1": "每次只改變要研究的條件，較能判斷差異是否與水量有關。",
+            "option-2": "每次只改變要研究的條件，較能判斷差異是否與水量有關。",
+            "option-3": "每次只改變要研究的條件，較能判斷差異是否與水量有關。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8202",
+              "locator": "課本第20–21頁",
+              "supportSummary": "每次只改變要研究的條件，較能判斷差異是否與水量有關。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-023",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-風力作用",
+          "conceptIds": [
+            "風力作用"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "若要研究風能否搬移沙粒，應觀察什麼？",
+          "options": [
+            {
+              "optionId": "option-2",
+              "text": "觀察者的鞋子顏色"
+            },
+            {
+              "optionId": "option-3",
+              "text": "只測旁邊水杯的高度"
+            },
+            {
+              "optionId": "option-0",
+              "text": "吹風前後沙粒的位置是否改變"
+            },
+            {
+              "optionId": "option-1",
+              "text": "沙粒原本裝在哪個品牌袋子"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "風和流水都可能搬移地表物質；比較沙粒位置可作為風力影響的證據。",
+          "distractorReasons": {
+            "option-1": "風和流水都可能搬移地表物質；比較沙粒位置可作為風力影響的證據。",
+            "option-2": "風和流水都可能搬移地表物質；比較沙粒位置可作為風力影響的證據。",
+            "option-3": "風和流水都可能搬移地表物質；比較沙粒位置可作為風力影響的證據。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8202",
+              "locator": "課本第20–21頁",
+              "supportSummary": "風和流水都可能搬移地表物質；比較沙粒位置可作為風力影響的證據。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-024",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-風力作用",
+          "conceptIds": [
+            "風力作用"
+          ],
+          "grade": 4,
+          "difficulty": "medium",
+          "type": "single_choice",
+          "stem": "風長期搬運、堆積沙粒，可能與哪種地形有關？",
+          "options": [
+            {
+              "optionId": "option-3",
+              "text": "人工修築的河岸"
+            },
+            {
+              "optionId": "option-0",
+              "text": "沙丘"
+            },
+            {
+              "optionId": "option-1",
+              "text": "岩石鋪成的步道"
+            },
+            {
+              "optionId": "option-2",
+              "text": "人為開闢的梯田"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "沙丘與風搬移、堆積沙粒有關；其他選項主要是人為修築，不能直接當作風力堆積的例子。",
+          "distractorReasons": {
+            "option-1": "沙丘與風搬移、堆積沙粒有關；其他選項主要是人為修築，不能直接當作風力堆積的例子。",
+            "option-2": "沙丘與風搬移、堆積沙粒有關；其他選項主要是人為修築，不能直接當作風力堆積的例子。",
+            "option-3": "沙丘與風搬移、堆積沙粒有關；其他選項主要是人為修築，不能直接當作風力堆積的例子。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "mindmap",
+              "locator": "地表物質、變動的大地分支",
+              "supportSummary": "沙丘與風搬移、堆積沙粒有關；其他選項主要是人為修築，不能直接當作風力堆積的例子。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-025",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-人為影響",
+          "conceptIds": [
+            "人為影響"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "山坡森林過度開發後遇大雨，可能增加什麼風險？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "土石流或土壤流失"
+            },
+            {
+              "optionId": "option-1",
+              "text": "所有土石會固定得更牢"
+            },
+            {
+              "optionId": "option-2",
+              "text": "雨水從此無法流動"
+            },
+            {
+              "optionId": "option-3",
+              "text": "所有河流立刻變乾"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "植被受破壞後，大雨可能更容易搬走地表物質，增加土石流等風險。",
+          "distractorReasons": {
+            "option-1": "植被受破壞後，大雨可能更容易搬走地表物質，增加土石流等風險。",
+            "option-2": "植被受破壞後，大雨可能更容易搬走地表物質，增加土石流等風險。",
+            "option-3": "植被受破壞後，大雨可能更容易搬走地表物質，增加土石流等風險。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8202",
+              "locator": "課本第20–21頁",
+              "supportSummary": "植被受破壞後，大雨可能更容易搬走地表物質，增加土石流等風險。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-026",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-人為影響",
+          "conceptIds": [
+            "人為影響"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "開墾後的大雨把山坡土壤沖進河中，河水可能變得如何？",
+          "options": [
+            {
+              "optionId": "option-1",
+              "text": "保證完全透明"
+            },
+            {
+              "optionId": "option-2",
+              "text": "立刻變成固體岩石"
+            },
+            {
+              "optionId": "option-3",
+              "text": "完全不受土壤影響"
+            },
+            {
+              "optionId": "option-0",
+              "text": "較混濁"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "土壤被雨水搬入河流，可使河水混濁，顯示人為改變與流水影響可能共同作用。",
+          "distractorReasons": {
+            "option-1": "土壤被雨水搬入河流，可使河水混濁，顯示人為改變與流水影響可能共同作用。",
+            "option-2": "土壤被雨水搬入河流，可使河水混濁，顯示人為改變與流水影響可能共同作用。",
+            "option-3": "土壤被雨水搬入河流，可使河水混濁，顯示人為改變與流水影響可能共同作用。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8202",
+              "locator": "課本第20–21頁",
+              "supportSummary": "土壤被雨水搬入河流，可使河水混濁，顯示人為改變與流水影響可能共同作用。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-027",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-水土保持",
+          "conceptIds": [
+            "水土保持"
+          ],
+          "grade": 4,
+          "difficulty": "medium",
+          "type": "single_choice",
+          "stem": "裸露山坡種植適合的植物，主要可幫助什麼？",
+          "options": [
+            {
+              "optionId": "option-2",
+              "text": "保證再也不會下雨"
+            },
+            {
+              "optionId": "option-3",
+              "text": "把所有岩石變成空氣"
+            },
+            {
+              "optionId": "option-0",
+              "text": "減少地表物質持續流失"
+            },
+            {
+              "optionId": "option-1",
+              "text": "讓所有自然變化永遠停止"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "教材提出覆蓋植物、維護森林完整性，有助減少地表物質流失；不能保證完全沒有災害。",
+          "distractorReasons": {
+            "option-1": "教材提出覆蓋植物、維護森林完整性，有助減少地表物質流失；不能保證完全沒有災害。",
+            "option-2": "教材提出覆蓋植物、維護森林完整性，有助減少地表物質流失；不能保證完全沒有災害。",
+            "option-3": "教材提出覆蓋植物、維護森林完整性，有助減少地表物質流失；不能保證完全沒有災害。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8203",
+              "locator": "課本第22–23頁",
+              "supportSummary": "教材提出覆蓋植物、維護森林完整性，有助減少地表物質流失；不能保證完全沒有災害。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-028",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-水土保持",
+          "conceptIds": [
+            "水土保持"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "哪一項較符合保護地表環境的做法？",
+          "options": [
+            {
+              "optionId": "option-3",
+              "text": "把河邊垃圾埋進土裡就不管"
+            },
+            {
+              "optionId": "option-0",
+              "text": "維護森林完整並避免過度砍伐"
+            },
+            {
+              "optionId": "option-1",
+              "text": "任意挖除整片山坡植物"
+            },
+            {
+              "optionId": "option-2",
+              "text": "不做規劃就大量開挖河床"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "維護森林完整性是教材中的保護方式，過度砍伐或無規劃開挖可能破壞環境。",
+          "distractorReasons": {
+            "option-1": "維護森林完整性是教材中的保護方式，過度砍伐或無規劃開挖可能破壞環境。",
+            "option-2": "維護森林完整性是教材中的保護方式，過度砍伐或無規劃開挖可能破壞環境。",
+            "option-3": "維護森林完整性是教材中的保護方式，過度砍伐或無規劃開挖可能破壞環境。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8203",
+              "locator": "課本第22–23頁",
+              "supportSummary": "維護森林完整性是教材中的保護方式，過度砍伐或無規劃開挖可能破壞環境。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-029",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-人為影響",
+          "conceptIds": [
+            "人為影響"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "把山坡改為梯田，屬於哪一類使地表改變的因素？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "人為影響"
+            },
+            {
+              "optionId": "option-1",
+              "text": "單純的風力搬運"
+            },
+            {
+              "optionId": "option-2",
+              "text": "單純的河水沖刷"
+            },
+            {
+              "optionId": "option-3",
+              "text": "完全不涉及人類的自然變化"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "山坡改成梯田是人類改變地表的例子；風與流水雖也改變地表，但不能忽略此例的人為活動。",
+          "distractorReasons": {
+            "option-1": "山坡改成梯田是人類改變地表的例子；風與流水雖也改變地表，但不能忽略此例的人為活動。",
+            "option-2": "山坡改成梯田是人類改變地表的例子；風與流水雖也改變地表，但不能忽略此例的人為活動。",
+            "option-3": "山坡改成梯田是人類改變地表的例子；風與流水雖也改變地表，但不能忽略此例的人為活動。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "mindmap",
+              "locator": "地表物質、變動的大地分支",
+              "supportSummary": "山坡改成梯田是人類改變地表的例子；風與流水雖也改變地表，但不能忽略此例的人為活動。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-030",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地震與地表",
+          "conceptIds": [
+            "地震與地表"
+          ],
+          "grade": 4,
+          "difficulty": "medium",
+          "type": "single_choice",
+          "stem": "除了風與流水，哪一項也能使地表明顯變動？",
+          "options": [
+            {
+              "optionId": "option-1",
+              "text": "在紙上寫字"
+            },
+            {
+              "optionId": "option-2",
+              "text": "看一本故事書"
+            },
+            {
+              "optionId": "option-3",
+              "text": "關閉螢幕亮度"
+            },
+            {
+              "optionId": "option-0",
+              "text": "強烈地震"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "強烈地震可造成地面隆起、斷裂、山坡崩塌等地表變動。",
+          "distractorReasons": {
+            "option-1": "強烈地震可造成地面隆起、斷裂、山坡崩塌等地表變動。",
+            "option-2": "強烈地震可造成地面隆起、斷裂、山坡崩塌等地表變動。",
+            "option-3": "強烈地震可造成地面隆起、斷裂、山坡崩塌等地表變動。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8203",
+              "locator": "課本第22–23頁",
+              "supportSummary": "強烈地震可造成地面隆起、斷裂、山坡崩塌等地表變動。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-031",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地震與地表",
+          "conceptIds": [
+            "地震與地表"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "河流被崩落土石堵住，水在後方累積，可能形成什麼？",
+          "options": [
+            {
+              "optionId": "option-2",
+              "text": "梯田"
+            },
+            {
+              "optionId": "option-3",
+              "text": "海岸泥灘"
+            },
+            {
+              "optionId": "option-0",
+              "text": "堰塞湖"
+            },
+            {
+              "optionId": "option-1",
+              "text": "沙丘"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "堰塞湖是土石阻塞水流使水累積的結果；沙丘、梯田與海岸泥灘不是這種形成過程。",
+          "distractorReasons": {
+            "option-1": "堰塞湖是土石阻塞水流使水累積的結果；沙丘、梯田與海岸泥灘不是這種形成過程。",
+            "option-2": "堰塞湖是土石阻塞水流使水累積的結果；沙丘、梯田與海岸泥灘不是這種形成過程。",
+            "option-3": "堰塞湖是土石阻塞水流使水累積的結果；沙丘、梯田與海岸泥灘不是這種形成過程。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8203",
+              "locator": "課本第22–23頁",
+              "supportSummary": "堰塞湖是土石阻塞水流使水累積的結果；沙丘、梯田與海岸泥灘不是這種形成過程。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-032",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地震災害",
+          "conceptIds": [
+            "地震災害"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "下列哪一項是強烈地震可能造成的災害？",
+          "options": [
+            {
+              "optionId": "option-3",
+              "text": "道路保證完全不受影響"
+            },
+            {
+              "optionId": "option-0",
+              "text": "橋梁受損或建築物傾倒"
+            },
+            {
+              "optionId": "option-1",
+              "text": "所有橋梁一定變更長"
+            },
+            {
+              "optionId": "option-2",
+              "text": "所有房屋都自動補強"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "強烈地震可能損壞建築物、橋梁與鐵軌，也可能造成火災；不代表每次地震都必然發生。",
+          "distractorReasons": {
+            "option-1": "強烈地震可能損壞建築物、橋梁與鐵軌，也可能造成火災；不代表每次地震都必然發生。",
+            "option-2": "強烈地震可能損壞建築物、橋梁與鐵軌，也可能造成火災；不代表每次地震都必然發生。",
+            "option-3": "強烈地震可能損壞建築物、橋梁與鐵軌，也可能造成火災；不代表每次地震都必然發生。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8204",
+              "locator": "課本第24–25頁",
+              "supportSummary": "強烈地震可能損壞建築物、橋梁與鐵軌，也可能造成火災；不代表每次地震都必然發生。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-033",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地震名詞",
+          "conceptIds": [
+            "地震名詞"
+          ],
+          "grade": 4,
+          "difficulty": "medium",
+          "type": "single_choice",
+          "stem": "引發地震的地下位置，稱為什麼？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "震源"
+            },
+            {
+              "optionId": "option-1",
+              "text": "震央"
+            },
+            {
+              "optionId": "option-2",
+              "text": "震源深度"
+            },
+            {
+              "optionId": "option-3",
+              "text": "地震規模"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "震源是地下引發地震的位置；震央是其地表投影，震源深度是距離，地震規模描述能量大小。",
+          "distractorReasons": {
+            "option-1": "震源是地下引發地震的位置；震央是其地表投影，震源深度是距離，地震規模描述能量大小。",
+            "option-2": "震源是地下引發地震的位置；震央是其地表投影，震源深度是距離，地震規模描述能量大小。",
+            "option-3": "震源是地下引發地震的位置；震央是其地表投影，震源深度是距離，地震規模描述能量大小。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8204",
+              "locator": "課本第24–25頁",
+              "supportSummary": "震源是地下引發地震的位置；震央是其地表投影，震源深度是距離，地震規模描述能量大小。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-034",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地震名詞",
+          "conceptIds": [
+            "地震名詞"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "震源在地表的投影位置，稱為什麼？",
+          "options": [
+            {
+              "optionId": "option-1",
+              "text": "震源"
+            },
+            {
+              "optionId": "option-2",
+              "text": "震源深度"
+            },
+            {
+              "optionId": "option-3",
+              "text": "地震規模"
+            },
+            {
+              "optionId": "option-0",
+              "text": "震央"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "震央位於地表，是震源在地表的投影；震源位於地下，深度與規模則不是這個地表位置的名稱。",
+          "distractorReasons": {
+            "option-1": "震央位於地表，是震源在地表的投影；震源位於地下，深度與規模則不是這個地表位置的名稱。",
+            "option-2": "震央位於地表，是震源在地表的投影；震源位於地下，深度與規模則不是這個地表位置的名稱。",
+            "option-3": "震央位於地表，是震源在地表的投影；震源位於地下，深度與規模則不是這個地表位置的名稱。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8204",
+              "locator": "課本第24–25頁",
+              "supportSummary": "震央位於地表，是震源在地表的投影；震源位於地下，深度與規模則不是這個地表位置的名稱。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-035",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地震名詞",
+          "conceptIds": [
+            "地震名詞"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "地震報告中的「震度」主要描述什麼？",
+          "options": [
+            {
+              "optionId": "option-2",
+              "text": "震源到地表的距離"
+            },
+            {
+              "optionId": "option-3",
+              "text": "這場地震發生的時刻"
+            },
+            {
+              "optionId": "option-0",
+              "text": "各地感受的搖晃或受影響程度"
+            },
+            {
+              "optionId": "option-1",
+              "text": "整場地震釋放的能量大小"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "震度描述某地的搖晃及影響；能量大小屬規模，距離屬深度，不能混用這些名詞。",
+          "distractorReasons": {
+            "option-1": "震度描述某地的搖晃及影響；能量大小屬規模，距離屬深度，不能混用這些名詞。",
+            "option-2": "震度描述某地的搖晃及影響；能量大小屬規模，距離屬深度，不能混用這些名詞。",
+            "option-3": "震度描述某地的搖晃及影響；能量大小屬規模，距離屬深度，不能混用這些名詞。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8204",
+              "locator": "課本第24–25頁",
+              "supportSummary": "震度描述某地的搖晃及影響；能量大小屬規模，距離屬深度，不能混用這些名詞。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-036",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地震名詞",
+          "conceptIds": [
+            "地震名詞"
+          ],
+          "grade": 4,
+          "difficulty": "medium",
+          "type": "single_choice",
+          "stem": "同一場地震，不同地方的震度有可能如何？",
+          "options": [
+            {
+              "optionId": "option-3",
+              "text": "只能用植物高度決定"
+            },
+            {
+              "optionId": "option-0",
+              "text": "不同地點可能有不同震度"
+            },
+            {
+              "optionId": "option-1",
+              "text": "所有地方永遠相同"
+            },
+            {
+              "optionId": "option-2",
+              "text": "只與當地人的身高有關"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "震度描述各地受到的搖晃影響，所以不同地方可能不同；不能和整場地震的規模混為一談。",
+          "distractorReasons": {
+            "option-1": "震度描述各地受到的搖晃影響，所以不同地方可能不同；不能和整場地震的規模混為一談。",
+            "option-2": "震度描述各地受到的搖晃影響，所以不同地方可能不同；不能和整場地震的規模混為一談。",
+            "option-3": "震度描述各地受到的搖晃影響，所以不同地方可能不同；不能和整場地震的規模混為一談。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8204",
+              "locator": "課本第24–25頁",
+              "supportSummary": "震度描述各地受到的搖晃影響，所以不同地方可能不同；不能和整場地震的規模混為一談。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-037",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-平時防災",
+          "conceptIds": [
+            "平時防災"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "平時和大人一起固定高櫃，主要目的是什麼？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "減少地震時傾倒或掉落傷人的風險"
+            },
+            {
+              "optionId": "option-1",
+              "text": "阻止所有地震發生"
+            },
+            {
+              "optionId": "option-2",
+              "text": "讓高櫃能自行逃跑"
+            },
+            {
+              "optionId": "option-3",
+              "text": "讓地面不再有岩石"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "固定家具是平時的減災準備，可減少傾倒傷害風險，但不能阻止地震發生。",
+          "distractorReasons": {
+            "option-1": "固定家具是平時的減災準備，可減少傾倒傷害風險，但不能阻止地震發生。",
+            "option-2": "固定家具是平時的減災準備，可減少傾倒傷害風險，但不能阻止地震發生。",
+            "option-3": "固定家具是平時的減災準備，可減少傾倒傷害風險，但不能阻止地震發生。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8206",
+              "locator": "課本第28–29頁",
+              "supportSummary": "固定家具是平時的減災準備，可減少傾倒傷害風險，但不能阻止地震發生。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-038",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-平時防災",
+          "conceptIds": [
+            "平時防災"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "參與學校防震演練，主要能幫助什麼？",
+          "options": [
+            {
+              "optionId": "option-1",
+              "text": "精準預言每次地震的時間"
+            },
+            {
+              "optionId": "option-2",
+              "text": "保證永遠不會遇到地震"
+            },
+            {
+              "optionId": "option-3",
+              "text": "讓建築物不需檢查"
+            },
+            {
+              "optionId": "option-0",
+              "text": "熟悉保護自己及依指引行動的方法"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "防震演練能熟悉保護與疏散等應變方法，並不提供精準地震預言或免除檢查。",
+          "distractorReasons": {
+            "option-1": "防震演練能熟悉保護與疏散等應變方法，並不提供精準地震預言或免除檢查。",
+            "option-2": "防震演練能熟悉保護與疏散等應變方法，並不提供精準地震預言或免除檢查。",
+            "option-3": "防震演練能熟悉保護與疏散等應變方法，並不提供精準地震預言或免除檢查。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "img-8206",
+              "locator": "課本第28–29頁",
+              "supportSummary": "防震演練能熟悉保護與疏散等應變方法，並不提供精準地震預言或免除檢查。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-039",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地震當下",
+          "conceptIds": [
+            "地震當下"
+          ],
+          "grade": 4,
+          "difficulty": "medium",
+          "type": "single_choice",
+          "stem": "室內突然明顯搖晃時，應記住哪個保護原則？",
+          "options": [
+            {
+              "optionId": "option-2",
+              "text": "在搖晃中急忙搭電梯"
+            },
+            {
+              "optionId": "option-3",
+              "text": "先花時間收拾所有玩具"
+            },
+            {
+              "optionId": "option-0",
+              "text": "趴下、掩護、穩住"
+            },
+            {
+              "optionId": "option-1",
+              "text": "立刻衝向窗邊觀看"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "依消防署說明，搖晃時先保護頭頸，採趴下、掩護、穩住；不要因急著逃跑增加受傷風險。",
+          "distractorReasons": {
+            "option-1": "依消防署說明，搖晃時先保護頭頸，採趴下、掩護、穩住；不要因急著逃跑增加受傷風險。",
+            "option-2": "依消防署說明，搖晃時先保護頭頸，採趴下、掩護、穩住；不要因急著逃跑增加受傷風險。",
+            "option-3": "依消防署說明，搖晃時先保護頭頸，採趴下、掩護、穩住；不要因急著逃跑增加受傷風險。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "nfa-response",
+              "locator": "抗震保命三步驟，2026-10-17查核",
+              "supportSummary": "依消防署說明，搖晃時先保護頭頸，採趴下、掩護、穩住；不要因急著逃跑增加受傷風險。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-040",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地震當下",
+          "conceptIds": [
+            "地震當下"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "地震搖晃時，為什麼要優先保護頭頸？",
+          "options": [
+            {
+              "optionId": "option-3",
+              "text": "因為玻璃碎片完全沒有危險"
+            },
+            {
+              "optionId": "option-0",
+              "text": "避免掉落物造成傷害"
+            },
+            {
+              "optionId": "option-1",
+              "text": "因為保護頭頸能停止地震"
+            },
+            {
+              "optionId": "option-2",
+              "text": "因為桌子一定不會移動"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "消防署提醒優先保護頭頸，並在合適掩護下穩住；這是減少受傷，不是讓地震停止。",
+          "distractorReasons": {
+            "option-1": "消防署提醒優先保護頭頸，並在合適掩護下穩住；這是減少受傷，不是讓地震停止。",
+            "option-2": "消防署提醒優先保護頭頸，並在合適掩護下穩住；這是減少受傷，不是讓地震停止。",
+            "option-3": "消防署提醒優先保護頭頸，並在合適掩護下穩住；這是減少受傷，不是讓地震停止。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "nfa-response",
+              "locator": "抗震保命三步驟，2026-10-17查核",
+              "supportSummary": "消防署提醒優先保護頭頸，並在合適掩護下穩住；這是減少受傷，不是讓地震停止。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:13:36Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-041",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-岩石用途",
+          "conceptIds": [
+            "岩石用途"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "小芽想用岩石搭一面穩固的矮牆，主要利用岩石哪個特性？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "堅硬"
+            },
+            {
+              "optionId": "option-1",
+              "text": "像棉花一樣柔軟"
+            },
+            {
+              "optionId": "option-2",
+              "text": "能溶在雨水裡"
+            },
+            {
+              "optionId": "option-3",
+              "text": "能像橡皮筋拉長"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "堅硬的岩石可作建築材料；是否適合建造，還要考慮結構與安全。",
+          "distractorReasons": {
+            "option-1": "堅硬的岩石可作建築材料；是否適合建造，還要考慮結構與安全。",
+            "option-2": "堅硬的岩石可作建築材料；是否適合建造，還要考慮結構與安全。",
+            "option-3": "堅硬的岩石可作建築材料；是否適合建造，還要考慮結構與安全。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "exam-2",
+              "locator": "第1頁／二-10",
+              "supportSummary": "堅硬的岩石可作建築材料；是否適合建造，還要考慮結構與安全。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:35:00Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-042",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-森林保護",
+          "conceptIds": [
+            "森林保護"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "森林被保留下來，除了樹木之外，哪一項也會受益？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "依賴森林棲息的動物"
+            },
+            {
+              "optionId": "option-1",
+              "text": "只有樹木，其他生物完全不受影響"
+            },
+            {
+              "optionId": "option-2",
+              "text": "只有住在大海裡的鯨魚"
+            },
+            {
+              "optionId": "option-3",
+              "text": "只有地底的金屬礦石"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "森林提供棲地與食物，保護森林也有助於依賴它生活的動物。",
+          "distractorReasons": {
+            "option-1": "森林提供棲地與食物，保護森林也有助於依賴它生活的動物。",
+            "option-2": "森林提供棲地與食物，保護森林也有助於依賴它生活的動物。",
+            "option-3": "森林提供棲地與食物，保護森林也有助於依賴它生活的動物。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "exam-0",
+              "locator": "第1頁／二-5",
+              "supportSummary": "森林提供棲地與食物，保護森林也有助於依賴它生活的動物。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:35:00Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-043",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-動物與環境",
+          "conceptIds": [
+            "動物與環境"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "探險隊看到岩縫裡長著小草，應該怎麼記錄？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "岩縫也可能有適合某些生物的條件"
+            },
+            {
+              "optionId": "option-1",
+              "text": "岩石附近一定沒有生命"
+            },
+            {
+              "optionId": "option-2",
+              "text": "小草不是生物，所以不必記錄"
+            },
+            {
+              "optionId": "option-3",
+              "text": "有岩石的地方都適合水稻田"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "岩縫中若有適量水分、光線與生長空間，也可能見到生物。",
+          "distractorReasons": {
+            "option-1": "岩縫中若有適量水分、光線與生長空間，也可能見到生物。",
+            "option-2": "岩縫中若有適量水分、光線與生長空間，也可能見到生物。",
+            "option-3": "岩縫中若有適量水分、光線與生長空間，也可能見到生物。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "exam-2",
+              "locator": "第1頁／一-11",
+              "supportSummary": "岩縫中若有適量水分、光線與生長空間，也可能見到生物。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:35:00Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-044",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-風力搬運",
+          "conceptIds": [
+            "風力搬運"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "在砂粒乾燥程度相同的實驗中，想比較風力強弱對搬運距離的影響，應改變什麼？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "搧風的強弱"
+            },
+            {
+              "optionId": "option-1",
+              "text": "每次都同時更換砂粒大小"
+            },
+            {
+              "optionId": "option-2",
+              "text": "只改變記錄本顏色"
+            },
+            {
+              "optionId": "option-3",
+              "text": "每次都加不同水量"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "要比較風力影響，主要改變風力，其他條件盡量保持一致，才容易比較。",
+          "distractorReasons": {
+            "option-1": "要比較風力影響，主要改變風力，其他條件盡量保持一致，才容易比較。",
+            "option-2": "要比較風力影響，主要改變風力，其他條件盡量保持一致，才容易比較。",
+            "option-3": "要比較風力影響，主要改變風力，其他條件盡量保持一致，才容易比較。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "exam-2",
+              "locator": "第1頁／二-4",
+              "supportSummary": "要比較風力影響，主要改變風力，其他條件盡量保持一致，才容易比較。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:35:00Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-045",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地表變動",
+          "conceptIds": [
+            "地表變動"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "一陣強風吹過乾燥的裸露土地，最可能出現哪個現象？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "細小的塵土被吹起"
+            },
+            {
+              "optionId": "option-1",
+              "text": "土地一定立刻形成堰塞湖"
+            },
+            {
+              "optionId": "option-2",
+              "text": "所有大岩塊同時融化"
+            },
+            {
+              "optionId": "option-3",
+              "text": "風完全無法移動任何顆粒"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "風能搬運細小、乾燥的顆粒，裸露土地較容易出現塵土飛揚。",
+          "distractorReasons": {
+            "option-1": "風能搬運細小、乾燥的顆粒，裸露土地較容易出現塵土飛揚。",
+            "option-2": "風能搬運細小、乾燥的顆粒，裸露土地較容易出現塵土飛揚。",
+            "option-3": "風能搬運細小、乾燥的顆粒，裸露土地較容易出現塵土飛揚。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "exam-0",
+              "locator": "第2頁／三-一",
+              "supportSummary": "風能搬運細小、乾燥的顆粒，裸露土地較容易出現塵土飛揚。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:35:00Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-046",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-防災準備",
+          "conceptIds": [
+            "防災準備"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "家中的高櫃容易晃動，平時哪個做法能減少地震時傾倒的風險？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "請成人妥善固定櫃子"
+            },
+            {
+              "optionId": "option-1",
+              "text": "把最重的物品全放最上層"
+            },
+            {
+              "optionId": "option-2",
+              "text": "等地震搖晃時再爬上去扶櫃子"
+            },
+            {
+              "optionId": "option-3",
+              "text": "把櫃子放在出口中央"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "平時固定高櫃、避免高處放重物，可減少搖晃時物品傾倒掉落的風險。",
+          "distractorReasons": {
+            "option-1": "平時固定高櫃、避免高處放重物，可減少搖晃時物品傾倒掉落的風險。",
+            "option-2": "平時固定高櫃、避免高處放重物，可減少搖晃時物品傾倒掉落的風險。",
+            "option-3": "平時固定高櫃、避免高處放重物，可減少搖晃時物品傾倒掉落的風險。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "exam-0",
+              "locator": "第1頁／二-4",
+              "supportSummary": "平時固定高櫃、避免高處放重物，可減少搖晃時物品傾倒掉落的風險。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:35:00Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-047",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-防災準備",
+          "conceptIds": [
+            "防災準備"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "整理防震用品時，重物放在哪個位置較安全？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "穩固櫃子的較低處"
+            },
+            {
+              "optionId": "option-1",
+              "text": "高櫃頂端邊緣"
+            },
+            {
+              "optionId": "option-2",
+              "text": "床頭正上方的高架"
+            },
+            {
+              "optionId": "option-3",
+              "text": "容易掉落的窗邊高處"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "重物宜放低處，並穩固收納，降低掉落與櫃體傾倒的風險。",
+          "distractorReasons": {
+            "option-1": "重物宜放低處，並穩固收納，降低掉落與櫃體傾倒的風險。",
+            "option-2": "重物宜放低處，並穩固收納，降低掉落與櫃體傾倒的風險。",
+            "option-3": "重物宜放低處，並穩固收納，降低掉落與櫃體傾倒的風險。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "exam-2",
+              "locator": "第2頁／四-3",
+              "supportSummary": "重物宜放低處，並穩固收納，降低掉落與櫃體傾倒的風險。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:35:00Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-048",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-地震地形",
+          "conceptIds": [
+            "地震地形"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "地震後山坡土石崩落並堵住河道，上游可能形成什麼？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "堰塞湖"
+            },
+            {
+              "optionId": "option-1",
+              "text": "沙漠中的沙丘"
+            },
+            {
+              "optionId": "option-2",
+              "text": "由珊瑚堆成的島"
+            },
+            {
+              "optionId": "option-3",
+              "text": "水完全不受阻擋的直線河道"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "崩落土石若堵住河道，上游積水可能形成堰塞湖；並非每次地震都會發生。",
+          "distractorReasons": {
+            "option-1": "崩落土石若堵住河道，上游積水可能形成堰塞湖；並非每次地震都會發生。",
+            "option-2": "崩落土石若堵住河道，上游積水可能形成堰塞湖；並非每次地震都會發生。",
+            "option-3": "崩落土石若堵住河道，上游積水可能形成堰塞湖；並非每次地震都會發生。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "exam-0",
+              "locator": "第1頁／二-3",
+              "supportSummary": "崩落土石若堵住河道，上游積水可能形成堰塞湖；並非每次地震都會發生。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:35:00Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-049",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-土地保護",
+          "conceptIds": [
+            "土地保護"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "山坡樹木大量被砍掉後，下雨時最需要注意哪種變化？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "表土較容易隨水流失"
+            },
+            {
+              "optionId": "option-1",
+              "text": "土壤必定變得更多更厚"
+            },
+            {
+              "optionId": "option-2",
+              "text": "坡地一定完全不受雨水影響"
+            },
+            {
+              "optionId": "option-3",
+              "text": "所有雨水都會自動停止流動"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "植被有助於保留土壤和水分，過度砍伐可能使表土流失加劇。這不代表所有坡地都會立刻崩塌。",
+          "distractorReasons": {
+            "option-1": "植被有助於保留土壤和水分，過度砍伐可能使表土流失加劇。這不代表所有坡地都會立刻崩塌。",
+            "option-2": "植被有助於保留土壤和水分，過度砍伐可能使表土流失加劇。這不代表所有坡地都會立刻崩塌。",
+            "option-3": "植被有助於保留土壤和水分，過度砍伐可能使表土流失加劇。這不代表所有坡地都會立刻崩塌。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "exam-5",
+              "locator": "第2頁／三-六",
+              "supportSummary": "植被有助於保留土壤和水分，過度砍伐可能使表土流失加劇。這不代表所有坡地都會立刻崩塌。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:35:00Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        },
+        {
+          "questionId": "earth-050",
+          "revision": 1,
+          "unitId": "earth",
+          "conceptGroupId": "earth-資訊判讀",
+          "conceptIds": [
+            "資訊判讀"
+          ],
+          "grade": 4,
+          "difficulty": "easy",
+          "type": "single_choice",
+          "stem": "地震報告列出發生時間、位置、深度與各地震度。哪一項不能只靠這些欄位判定？",
+          "options": [
+            {
+              "optionId": "option-0",
+              "text": "某一棟房子是否可以安全進入"
+            },
+            {
+              "optionId": "option-1",
+              "text": "地震發生的時刻"
+            },
+            {
+              "optionId": "option-2",
+              "text": "報告列出的震源深度"
+            },
+            {
+              "optionId": "option-3",
+              "text": "報告列出的地區震度"
+            }
+          ],
+          "correctOptionId": "option-0",
+          "explanation": "地震報告提供事件資訊，個別建築是否安全，仍須現場檢查與專業判斷，不能只憑震度決定。",
+          "distractorReasons": {
+            "option-1": "地震報告提供事件資訊，個別建築是否安全，仍須現場檢查與專業判斷，不能只憑震度決定。",
+            "option-2": "地震報告提供事件資訊，個別建築是否安全，仍須現場檢查與專業判斷，不能只憑震度決定。",
+            "option-3": "地震報告提供事件資訊，個別建築是否安全，仍須現場檢查與專業判斷，不能只憑震度決定。"
+          },
+          "sourceRefs": [
+            {
+              "sourceId": "exam-0",
+              "locator": "第2頁／三-六",
+              "supportSummary": "地震報告提供事件資訊，個別建築是否安全，仍須現場檢查與專業判斷，不能只憑震度決定。"
+            }
+          ],
+          "fastThresholdSeconds": 5,
+          "bonusWindowSeconds": 30,
+          "status": "draft",
+          "review": {
+            "kind": "ai_source_checked",
+            "reviewedBy": "Codex（來源對照；待成人複核）",
+            "reviewedAt": "2026-10-17T06:35:00Z",
+            "factualChecked": true,
+            "sourceChecked": true,
+            "languageChecked": true
+          }
+        }
+      ]
+    }
+  ]
+}
