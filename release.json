@@ -1,11 +1,16 @@
 {
-  "version": "0.8.0",
-  "sourceCommit": "c40d6cc1248f21997e0d4dda9340a622ceb31134",
-  "publishedAt": "2026-10-18T11:32:16.5540430Z",
+  "version": "0.9.0",
+  "sourceCommit": "242a53e969922d66893746f5d5514dc127dfac65",
+  "publishedAt": "2026-10-18T12:56:22.6644266Z",
   "files": {
-    "index.html": "9427567ce1bcdc5a89c6927189ffed61887d58a54810730d57d38e7128724f89",
+    "index.html": "7cfbad80157d9e30f82285353b9081e9f31b58a96b552f652ed8836ec3ddebb6",
     "leaf.svg": "e74e7b204f07dfb7dbeea739c010b96271d2edf2af2431ee420314d883fe35c9",
-    "assets/index-B56eQhme.css": "a6e3cb60212a961f1e86df859326c90c78cfff28a7e39168b3b50d807ce1ae94",
-    "assets/index-DrJKkQIR.js": "7283da68a1443b45895be12f8f22d8fba4a2c4871085937b4ea92073e81e6081"
+    "manifest.webmanifest": "b40add0ff30065a91fbb781c516183e73e15663ddfb0557d786501e126abdc6b",
+    "sw.js": "b20e76c167150fb0b8c513f5694d30aa52ba2a5d657109396a2c23f1a6c9ad72",
+    "assets/index-CJCLQtMX.js": "eb97c97b8ed2c7be3c1211bfa4affebbcad26d424473ad1d618f47c8be1aa924",
+    "assets/index-u2KAl6em.css": "b16315a51f354735a10bd11bc51f0a0bf05029eaa9ab033d064f252b13f51096",
+    "icons/apple-touch-icon.png": "ddbb117a64e3ca7fd303591397e282d238f917e262070f9312e9f28c5dfe321e",
+    "icons/icon-192.png": "5bdc40ea0f3a77437728a145193a140f2876956b9457f42461e2b6b0a7d34b6a",
+    "icons/icon-512.png": "a11415fef42b457a116cd5309332e01e09e6df51f74fbfc54875b0d9228bce38"
   }
 }
