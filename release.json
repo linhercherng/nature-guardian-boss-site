@@ -1,11 +1,11 @@
 {
-  "version": "0.7.0",
-  "sourceCommit": "a9b87e042bbe063167fc28538625b2553c7dc390",
-  "publishedAt": "2026-10-18T10:47:26.2287321Z",
+  "version": "0.8.0",
+  "sourceCommit": "c40d6cc1248f21997e0d4dda9340a622ceb31134",
+  "publishedAt": "2026-10-18T11:32:16.5540430Z",
   "files": {
-    "index.html": "36a1f15c1c960097a95043e08e91d9dbefc9bfb1a23e3c25ff8f6999e1f3f656",
+    "index.html": "9427567ce1bcdc5a89c6927189ffed61887d58a54810730d57d38e7128724f89",
     "leaf.svg": "e74e7b204f07dfb7dbeea739c010b96271d2edf2af2431ee420314d883fe35c9",
-    "assets/index-CXuqmC8p.js": "e3df1260ac79344c4ba25eb3efc2fcba6314e84fbe3a36ffd68ff29be4489dd5",
-    "assets/index-CYiT6dh6.css": "cc31ed98908da46d9f74278b229c9b41b243375ee05810edf2b9ed68cf581d4b"
+    "assets/index-B56eQhme.css": "a6e3cb60212a961f1e86df859326c90c78cfff28a7e39168b3b50d807ce1ae94",
+    "assets/index-DrJKkQIR.js": "7283da68a1443b45895be12f8f22d8fba4a2c4871085937b4ea92073e81e6081"
   }
 }
